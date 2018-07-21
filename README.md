@@ -3,6 +3,7 @@ Acads_project
 
 
 What this application will do ?
+
 This Application takes your notes and stores it in database..
 You can add,view and delete notes at any time..
 
@@ -12,6 +13,7 @@ You can search notes,and to edit them just click on the note you want to edit
 
 
 Why note taking ?
+
  This handy note taking application allows users to manage their tasks and store it to database.
 
 Components
